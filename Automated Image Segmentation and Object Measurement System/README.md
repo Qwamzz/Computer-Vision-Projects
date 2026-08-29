@@ -1,4 +1,4 @@
-# CSCD608 Advanced Computer Vision, Final Examination, Question 4
+# CSCD608 Advanced Computer Vision, Final, Question 4
 
 **Automated Image Segmentation and Object Measurement System**
 
