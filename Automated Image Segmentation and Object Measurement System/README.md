@@ -10,7 +10,7 @@
 | Question | Question 4 |
 | Application domain | Counting and measuring seeds, beans and coins |
 
-The report to be marked is **`report/CSCD608_Q4_Report.pdf`**.
+The report is **`report/CSCD608_Q4_Report.pdf`**.
 
 ## What the system does
 
