@@ -1,0 +1,6 @@
+image,expected,count_before_split,count_after_split
+beans_cowpea_scale_05,8,9,9
+beans_coffee_06,5,2,3
+coins_greek_07,24,18,17
+seeds_pale_04,3,6,12
+seeds_sunflower_01,,7,12

@@ -1,0 +1,1825 @@
+{
+  "main": [
+    {
+      "image": "seeds_sunflower_01",
+      "title": "Sunflower seeds, scattered",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9888,
+      "precision": 0.9996,
+      "recall": 0.9892,
+      "f1": 0.9944,
+      "dice": 0.9944,
+      "time_s": 0.037,
+      "pred_count": 7,
+      "gt_count": "",
+      "count_error": "",
+      "obj_precision": "",
+      "obj_recall": "",
+      "obj_f1": ""
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "title": "Sunflower seeds, scattered",
+      "method": "Region growing (tol 25)",
+      "iou": 0.3528,
+      "precision": 1.0,
+      "recall": 0.3528,
+      "f1": 0.5216,
+      "dice": 0.5216,
+      "time_s": 1.037,
+      "pred_count": 13,
+      "gt_count": "",
+      "count_error": "",
+      "obj_precision": "",
+      "obj_recall": "",
+      "obj_f1": ""
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "title": "Sunflower seeds, scattered",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.9374,
+      "precision": 0.9376,
+      "recall": 0.9997,
+      "f1": 0.9677,
+      "dice": 0.9677,
+      "time_s": 4.991,
+      "pred_count": 7,
+      "gt_count": "",
+      "count_error": "",
+      "obj_precision": "",
+      "obj_recall": "",
+      "obj_f1": ""
+    },
+    {
+      "image": "seeds_pale_04",
+      "title": "Pale sunflower seeds of three sizes",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.1743,
+      "precision": 0.5756,
+      "recall": 0.2,
+      "f1": 0.2968,
+      "dice": 0.2968,
+      "time_s": 0.031,
+      "pred_count": 6,
+      "gt_count": 3,
+      "count_error": 3,
+      "obj_precision": 0.0,
+      "obj_recall": 0.0,
+      "obj_f1": 0.0
+    },
+    {
+      "image": "seeds_pale_04",
+      "title": "Pale sunflower seeds of three sizes",
+      "method": "Region growing (tol 25)",
+      "iou": 0.311,
+      "precision": 0.311,
+      "recall": 1.0,
+      "f1": 0.4745,
+      "dice": 0.4745,
+      "time_s": 5.151,
+      "pred_count": 1,
+      "gt_count": 3,
+      "count_error": -2,
+      "obj_precision": 0.0,
+      "obj_recall": 0.0,
+      "obj_f1": 0.0
+    },
+    {
+      "image": "seeds_pale_04",
+      "title": "Pale sunflower seeds of three sizes",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.6076,
+      "precision": 0.7434,
+      "recall": 0.7689,
+      "f1": 0.7559,
+      "dice": 0.7559,
+      "time_s": 2.205,
+      "pred_count": 4,
+      "gt_count": 3,
+      "count_error": 1,
+      "obj_precision": 0.75,
+      "obj_recall": 1.0,
+      "obj_f1": 0.8571
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "title": "Cowpea seeds photographed with a centimetre scale",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.8285,
+      "precision": 0.8285,
+      "recall": 1.0,
+      "f1": 0.9062,
+      "dice": 0.9062,
+      "time_s": 0.042,
+      "pred_count": 9,
+      "gt_count": 8,
+      "count_error": 1,
+      "obj_precision": 0.8889,
+      "obj_recall": 1.0,
+      "obj_f1": 0.9412
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "title": "Cowpea seeds photographed with a centimetre scale",
+      "method": "Region growing (tol 25)",
+      "iou": 0.1122,
+      "precision": 0.1122,
+      "recall": 1.0,
+      "f1": 0.2018,
+      "dice": 0.2018,
+      "time_s": 8.226,
+      "pred_count": 1,
+      "gt_count": 8,
+      "count_error": -7,
+      "obj_precision": 0.0,
+      "obj_recall": 0.0,
+      "obj_f1": 0.0
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "title": "Cowpea seeds photographed with a centimetre scale",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.8279,
+      "precision": 0.8279,
+      "recall": 1.0,
+      "f1": 0.9059,
+      "dice": 0.9059,
+      "time_s": 15.35,
+      "pred_count": 9,
+      "gt_count": 8,
+      "count_error": 1,
+      "obj_precision": 0.8889,
+      "obj_recall": 1.0,
+      "obj_f1": 0.9412
+    },
+    {
+      "image": "beans_coffee_06",
+      "title": "Roasted coffee beans with cast shadows",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9623,
+      "precision": 0.9718,
+      "recall": 0.99,
+      "f1": 0.9808,
+      "dice": 0.9808,
+      "time_s": 0.038,
+      "pred_count": 2,
+      "gt_count": 5,
+      "count_error": -3,
+      "obj_precision": 0.5,
+      "obj_recall": 0.2,
+      "obj_f1": 0.2857
+    },
+    {
+      "image": "beans_coffee_06",
+      "title": "Roasted coffee beans with cast shadows",
+      "method": "Region growing (tol 25)",
+      "iou": 0.4067,
+      "precision": 0.9965,
+      "recall": 0.4072,
+      "f1": 0.5782,
+      "dice": 0.5782,
+      "time_s": 0.934,
+      "pred_count": 2,
+      "gt_count": 5,
+      "count_error": -3,
+      "obj_precision": 1.0,
+      "obj_recall": 0.4,
+      "obj_f1": 0.5714
+    },
+    {
+      "image": "beans_coffee_06",
+      "title": "Roasted coffee beans with cast shadows",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.901,
+      "precision": 0.9017,
+      "recall": 0.999,
+      "f1": 0.9479,
+      "dice": 0.9479,
+      "time_s": 11.972,
+      "pred_count": 2,
+      "gt_count": 5,
+      "count_error": -3,
+      "obj_precision": 0.5,
+      "obj_recall": 0.2,
+      "obj_f1": 0.2857
+    },
+    {
+      "image": "coins_greek_07",
+      "title": "Twenty four Greek coins",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.5935,
+      "precision": 0.9219,
+      "recall": 0.625,
+      "f1": 0.7449,
+      "dice": 0.7449,
+      "time_s": 0.012,
+      "pred_count": 18,
+      "gt_count": 24,
+      "count_error": -6,
+      "obj_precision": 0.8333,
+      "obj_recall": 0.625,
+      "obj_f1": 0.7143
+    },
+    {
+      "image": "coins_greek_07",
+      "title": "Twenty four Greek coins",
+      "method": "Region growing (tol 25)",
+      "iou": 0.6434,
+      "precision": 0.9518,
+      "recall": 0.6651,
+      "f1": 0.783,
+      "dice": 0.783,
+      "time_s": 0.362,
+      "pred_count": 18,
+      "gt_count": 24,
+      "count_error": -6,
+      "obj_precision": 1.0,
+      "obj_recall": 0.75,
+      "obj_f1": 0.8571
+    },
+    {
+      "image": "coins_greek_07",
+      "title": "Twenty four Greek coins",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.8013,
+      "precision": 0.9393,
+      "recall": 0.845,
+      "f1": 0.8897,
+      "dice": 0.8897,
+      "time_s": 1.093,
+      "pred_count": 24,
+      "gt_count": 24,
+      "count_error": 0,
+      "obj_precision": 0.9167,
+      "obj_recall": 0.9167,
+      "obj_f1": 0.9167
+    }
+  ],
+  "main_mean": [
+    {
+      "method": "Thresholding (Otsu)",
+      "mean_iou": 0.7095,
+      "mean_precision": 0.8595,
+      "mean_recall": 0.7608,
+      "mean_f1": 0.7846,
+      "mean_time_s": 0.032
+    },
+    {
+      "method": "Region growing (tol 25)",
+      "mean_iou": 0.3652,
+      "mean_precision": 0.6743,
+      "mean_recall": 0.685,
+      "mean_f1": 0.5118,
+      "mean_time_s": 3.142
+    },
+    {
+      "method": "K means (K = 3, Lab)",
+      "mean_iou": 0.815,
+      "mean_precision": 0.87,
+      "mean_recall": 0.9225,
+      "mean_f1": 0.8934,
+      "mean_time_s": 7.122
+    }
+  ],
+  "otsu_threshold_example": 155,
+  "threshold_study": [
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Otsu, illumination corrected",
+      "iou": 0.9888,
+      "precision": 0.9996,
+      "recall": 0.9892,
+      "f1": 0.9944,
+      "time_s": 0.038
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Otsu, no illumination correction",
+      "iou": 0.9824,
+      "precision": 0.9902,
+      "recall": 0.9921,
+      "f1": 0.9911,
+      "time_s": 0.033
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Fixed threshold 100",
+      "iou": 0.7752,
+      "precision": 1.0,
+      "recall": 0.7752,
+      "f1": 0.8733,
+      "time_s": 0.017
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Fixed threshold 140",
+      "iou": 0.9494,
+      "precision": 0.9965,
+      "recall": 0.9526,
+      "f1": 0.974,
+      "time_s": 0.027
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Fixed threshold 180",
+      "iou": 0.9572,
+      "precision": 0.9573,
+      "recall": 0.9998,
+      "f1": 0.9781,
+      "time_s": 0.037
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Adaptive Gaussian, block 51",
+      "iou": 0.7316,
+      "precision": 0.9796,
+      "recall": 0.7429,
+      "f1": 0.845,
+      "time_s": 0.063
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "setting": "Adaptive Gaussian, block 101",
+      "iou": 0.9,
+      "precision": 0.98,
+      "recall": 0.9168,
+      "f1": 0.9473,
+      "time_s": 0.08
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Otsu, illumination corrected",
+      "iou": 0.9798,
+      "precision": 0.9991,
+      "recall": 0.9807,
+      "f1": 0.9898,
+      "time_s": 0.04
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Otsu, no illumination correction",
+      "iou": 0.6508,
+      "precision": 0.657,
+      "recall": 0.9856,
+      "f1": 0.7885,
+      "time_s": 0.032
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Fixed threshold 100",
+      "iou": 0.8491,
+      "precision": 0.9147,
+      "recall": 0.9221,
+      "f1": 0.9184,
+      "time_s": 0.028
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Fixed threshold 140",
+      "iou": 0.641,
+      "precision": 0.6459,
+      "recall": 0.9882,
+      "f1": 0.7812,
+      "time_s": 0.027
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Fixed threshold 180",
+      "iou": 0.5033,
+      "precision": 0.5033,
+      "recall": 0.9999,
+      "f1": 0.6696,
+      "time_s": 0.015
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Adaptive Gaussian, block 51",
+      "iou": 0.6199,
+      "precision": 0.9857,
+      "recall": 0.6256,
+      "f1": 0.7654,
+      "time_s": 0.032
+    },
+    {
+      "image": "seeds_sunflower_01_illum",
+      "setting": "Adaptive Gaussian, block 101",
+      "iou": 0.8782,
+      "precision": 0.9864,
+      "recall": 0.889,
+      "f1": 0.9352,
+      "time_s": 0.038
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Otsu, illumination corrected",
+      "iou": 0.5935,
+      "precision": 0.9219,
+      "recall": 0.625,
+      "f1": 0.7449,
+      "time_s": 0.015
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Otsu, no illumination correction",
+      "iou": 0.7092,
+      "precision": 0.729,
+      "recall": 0.9631,
+      "f1": 0.8299,
+      "time_s": 0.017
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Fixed threshold 100",
+      "iou": 0.6859,
+      "precision": 0.7025,
+      "recall": 0.9666,
+      "f1": 0.8137,
+      "time_s": 0.017
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Fixed threshold 140",
+      "iou": 0.7872,
+      "precision": 0.9555,
+      "recall": 0.8171,
+      "f1": 0.8809,
+      "time_s": 0.015
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Fixed threshold 180",
+      "iou": 0.144,
+      "precision": 0.9767,
+      "recall": 0.1445,
+      "f1": 0.2517,
+      "time_s": 0.007
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Adaptive Gaussian, block 51",
+      "iou": 0.4589,
+      "precision": 0.4664,
+      "recall": 0.9662,
+      "f1": 0.6291,
+      "time_s": 0.022
+    },
+    {
+      "image": "coins_greek_07",
+      "setting": "Adaptive Gaussian, block 101",
+      "iou": 0.6548,
+      "precision": 0.6704,
+      "recall": 0.9657,
+      "f1": 0.7914,
+      "time_s": 0.013
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Otsu, illumination corrected",
+      "iou": 0.61,
+      "precision": 0.9235,
+      "recall": 0.6425,
+      "f1": 0.7578,
+      "time_s": 0.006
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Otsu, no illumination correction",
+      "iou": 0.8523,
+      "precision": 0.9187,
+      "recall": 0.9219,
+      "f1": 0.9203,
+      "time_s": 0.008
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Fixed threshold 100",
+      "iou": 0.7419,
+      "precision": 0.9457,
+      "recall": 0.7749,
+      "f1": 0.8518,
+      "time_s": 0.012
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Fixed threshold 140",
+      "iou": 0.2921,
+      "precision": 0.9841,
+      "recall": 0.2934,
+      "f1": 0.4521,
+      "time_s": 0.006
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Fixed threshold 180",
+      "iou": 0.018,
+      "precision": 1.0,
+      "recall": 0.018,
+      "f1": 0.0353,
+      "time_s": 0.004
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Adaptive Gaussian, block 51",
+      "iou": 0.4142,
+      "precision": 0.4182,
+      "recall": 0.9773,
+      "f1": 0.5857,
+      "time_s": 0.01
+    },
+    {
+      "image": "coins_greek_07_illum",
+      "setting": "Adaptive Gaussian, block 101",
+      "iou": 0.5885,
+      "precision": 0.6007,
+      "recall": 0.9669,
+      "f1": 0.741,
+      "time_s": 0.034
+    }
+  ],
+  "region_growing_study": [
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "6",
+      "n_seeds": 7,
+      "iou": 0.0446,
+      "precision": 1.0,
+      "recall": 0.0446,
+      "f1": 0.0854,
+      "pred_count": 5,
+      "time_s": 0.115
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "10",
+      "n_seeds": 7,
+      "iou": 0.077,
+      "precision": 1.0,
+      "recall": 0.077,
+      "f1": 0.1429,
+      "pred_count": 6,
+      "time_s": 0.162
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "14",
+      "n_seeds": 7,
+      "iou": 0.101,
+      "precision": 1.0,
+      "recall": 0.101,
+      "f1": 0.1835,
+      "pred_count": 7,
+      "time_s": 0.197
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "18",
+      "n_seeds": 7,
+      "iou": 0.1284,
+      "precision": 1.0,
+      "recall": 0.1284,
+      "f1": 0.2275,
+      "pred_count": 10,
+      "time_s": 0.221
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "25",
+      "n_seeds": 7,
+      "iou": 0.3528,
+      "precision": 1.0,
+      "recall": 0.3528,
+      "f1": 0.5216,
+      "pred_count": 13,
+      "time_s": 0.786
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "35",
+      "n_seeds": 7,
+      "iou": 0.2367,
+      "precision": 1.0,
+      "recall": 0.2367,
+      "f1": 0.3828,
+      "pred_count": 7,
+      "time_s": 0.575
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "tolerance",
+      "setting": "50",
+      "n_seeds": 7,
+      "iou": 0.7056,
+      "precision": 1.0,
+      "recall": 0.7056,
+      "f1": 0.8274,
+      "pred_count": 7,
+      "time_s": 1.96
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "seed_strategy",
+      "setting": "distance",
+      "n_seeds": 7,
+      "iou": 0.3528,
+      "precision": 1.0,
+      "recall": 0.3528,
+      "f1": 0.5216,
+      "pred_count": 13,
+      "time_s": 0.843
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "seed_strategy",
+      "setting": "grid",
+      "n_seeds": 14,
+      "iou": 0.569,
+      "precision": 1.0,
+      "recall": 0.569,
+      "f1": 0.7253,
+      "pred_count": 4,
+      "time_s": 1.41
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "seed_strategy",
+      "setting": "random",
+      "n_seeds": 40,
+      "iou": 0.7544,
+      "precision": 0.998,
+      "recall": 0.7555,
+      "f1": 0.86,
+      "pred_count": 6,
+      "time_s": 1.553
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "criterion",
+      "setting": "running_mean",
+      "n_seeds": 7,
+      "iou": 0.3528,
+      "precision": 1.0,
+      "recall": 0.3528,
+      "f1": 0.5216,
+      "pred_count": 13,
+      "time_s": 0.459
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "criterion",
+      "setting": "seed_value",
+      "n_seeds": 7,
+      "iou": 0.2204,
+      "precision": 1.0,
+      "recall": 0.2204,
+      "f1": 0.3612,
+      "pred_count": 16,
+      "time_s": 0.327
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "6",
+      "n_seeds": 18,
+      "iou": 0.0976,
+      "precision": 0.9975,
+      "recall": 0.0977,
+      "f1": 0.1779,
+      "pred_count": 7,
+      "time_s": 0.076
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "10",
+      "n_seeds": 18,
+      "iou": 0.2989,
+      "precision": 0.9876,
+      "recall": 0.3,
+      "f1": 0.4602,
+      "pred_count": 15,
+      "time_s": 0.11
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "14",
+      "n_seeds": 18,
+      "iou": 0.4103,
+      "precision": 0.9786,
+      "recall": 0.4141,
+      "f1": 0.5819,
+      "pred_count": 17,
+      "time_s": 0.14
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "18",
+      "n_seeds": 18,
+      "iou": 0.496,
+      "precision": 0.9697,
+      "recall": 0.5038,
+      "f1": 0.6631,
+      "pred_count": 18,
+      "time_s": 0.22
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "25",
+      "n_seeds": 18,
+      "iou": 0.6434,
+      "precision": 0.9518,
+      "recall": 0.6651,
+      "f1": 0.783,
+      "pred_count": 18,
+      "time_s": 0.393
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "35",
+      "n_seeds": 18,
+      "iou": 0.3197,
+      "precision": 0.3197,
+      "recall": 1.0,
+      "f1": 0.4846,
+      "pred_count": 1,
+      "time_s": 1.741
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "tolerance",
+      "setting": "50",
+      "n_seeds": 18,
+      "iou": 0.3197,
+      "precision": 0.3197,
+      "recall": 1.0,
+      "f1": 0.4846,
+      "pred_count": 1,
+      "time_s": 1.795
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "seed_strategy",
+      "setting": "distance",
+      "n_seeds": 18,
+      "iou": 0.6434,
+      "precision": 0.9518,
+      "recall": 0.6651,
+      "f1": 0.783,
+      "pred_count": 18,
+      "time_s": 0.21
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "seed_strategy",
+      "setting": "grid",
+      "n_seeds": 5,
+      "iou": 0.1404,
+      "precision": 0.9679,
+      "recall": 0.141,
+      "f1": 0.2462,
+      "pred_count": 5,
+      "time_s": 0.05
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "seed_strategy",
+      "setting": "random",
+      "n_seeds": 40,
+      "iou": 0.5427,
+      "precision": 0.9516,
+      "recall": 0.5581,
+      "f1": 0.7036,
+      "pred_count": 15,
+      "time_s": 0.173
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "criterion",
+      "setting": "running_mean",
+      "n_seeds": 18,
+      "iou": 0.6434,
+      "precision": 0.9518,
+      "recall": 0.6651,
+      "f1": 0.783,
+      "pred_count": 18,
+      "time_s": 0.241
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "criterion",
+      "setting": "seed_value",
+      "n_seeds": 18,
+      "iou": 0.5544,
+      "precision": 0.9572,
+      "recall": 0.5684,
+      "f1": 0.7133,
+      "pred_count": 18,
+      "time_s": 0.201
+    }
+  ],
+  "kmeans_study": [
+    {
+      "image": "seeds_sunflower_01",
+      "study": "K",
+      "setting": "2",
+      "iou": 0.9722,
+      "precision": 0.993,
+      "recall": 0.979,
+      "f1": 0.9859,
+      "pred_count": 7,
+      "time_s": 0.931
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "K",
+      "setting": "3",
+      "iou": 0.9374,
+      "precision": 0.9376,
+      "recall": 0.9997,
+      "f1": 0.9677,
+      "pred_count": 7,
+      "time_s": 3.602
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "K",
+      "setting": "4",
+      "iou": 0.8736,
+      "precision": 0.8736,
+      "recall": 1.0,
+      "f1": 0.9325,
+      "pred_count": 7,
+      "time_s": 4.915
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "K",
+      "setting": "5",
+      "iou": 0.8438,
+      "precision": 0.8439,
+      "recall": 1.0,
+      "f1": 0.9153,
+      "pred_count": 7,
+      "time_s": 13.082
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "K",
+      "setting": "6",
+      "iou": 0.8212,
+      "precision": 0.8212,
+      "recall": 1.0,
+      "f1": 0.9018,
+      "pred_count": 6,
+      "time_s": 16.745
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "features",
+      "setting": "intensity",
+      "iou": 0.9388,
+      "precision": 0.9389,
+      "recall": 0.9999,
+      "f1": 0.9684,
+      "pred_count": 7,
+      "time_s": 1.077
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "features",
+      "setting": "lab",
+      "iou": 0.9374,
+      "precision": 0.9376,
+      "recall": 0.9997,
+      "f1": 0.9677,
+      "pred_count": 7,
+      "time_s": 4.015
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "study": "features",
+      "setting": "lab_xy",
+      "iou": 0.9651,
+      "precision": 0.9947,
+      "recall": 0.9701,
+      "f1": 0.9823,
+      "pred_count": 7,
+      "time_s": 9.227
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "K",
+      "setting": "2",
+      "iou": 0.7074,
+      "precision": 0.7299,
+      "recall": 0.9583,
+      "f1": 0.8286,
+      "pred_count": 22,
+      "time_s": 0.544
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "K",
+      "setting": "3",
+      "iou": 0.8013,
+      "precision": 0.9393,
+      "recall": 0.845,
+      "f1": 0.8897,
+      "pred_count": 24,
+      "time_s": 1.158
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "K",
+      "setting": "4",
+      "iou": 0.6168,
+      "precision": 0.9491,
+      "recall": 0.6379,
+      "f1": 0.763,
+      "pred_count": 22,
+      "time_s": 1.074
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "K",
+      "setting": "5",
+      "iou": 0.4808,
+      "precision": 0.4878,
+      "recall": 0.971,
+      "f1": 0.6494,
+      "pred_count": 8,
+      "time_s": 1.4
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "K",
+      "setting": "6",
+      "iou": 0.5157,
+      "precision": 0.547,
+      "recall": 0.9001,
+      "f1": 0.6805,
+      "pred_count": 10,
+      "time_s": 4.308
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "features",
+      "setting": "intensity",
+      "iou": 0.6763,
+      "precision": 0.8974,
+      "recall": 0.7329,
+      "f1": 0.8069,
+      "pred_count": 18,
+      "time_s": 0.145
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "features",
+      "setting": "lab",
+      "iou": 0.8013,
+      "precision": 0.9393,
+      "recall": 0.845,
+      "f1": 0.8897,
+      "pred_count": 24,
+      "time_s": 1.183
+    },
+    {
+      "image": "coins_greek_07",
+      "study": "features",
+      "setting": "lab_xy",
+      "iou": 0.8034,
+      "precision": 0.9398,
+      "recall": 0.847,
+      "f1": 0.891,
+      "pred_count": 24,
+      "time_s": 2.086
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "K",
+      "setting": "2",
+      "iou": 0.9582,
+      "precision": 0.9602,
+      "recall": 0.9978,
+      "f1": 0.9786,
+      "pred_count": 2,
+      "time_s": 2.22
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "K",
+      "setting": "3",
+      "iou": 0.901,
+      "precision": 0.9017,
+      "recall": 0.999,
+      "f1": 0.9479,
+      "pred_count": 2,
+      "time_s": 12.333
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "K",
+      "setting": "4",
+      "iou": 0.8251,
+      "precision": 0.8257,
+      "recall": 0.9992,
+      "f1": 0.9042,
+      "pred_count": 1,
+      "time_s": 13.27
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "K",
+      "setting": "5",
+      "iou": 0.745,
+      "precision": 0.745,
+      "recall": 1.0,
+      "f1": 0.8539,
+      "pred_count": 1,
+      "time_s": 16.198
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "K",
+      "setting": "6",
+      "iou": 0.7409,
+      "precision": 0.7409,
+      "recall": 1.0,
+      "f1": 0.8512,
+      "pred_count": 1,
+      "time_s": 24.955
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "features",
+      "setting": "intensity",
+      "iou": 0.9452,
+      "precision": 0.9494,
+      "recall": 0.9953,
+      "f1": 0.9718,
+      "pred_count": 3,
+      "time_s": 1.255
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "features",
+      "setting": "lab",
+      "iou": 0.901,
+      "precision": 0.9017,
+      "recall": 0.999,
+      "f1": 0.9479,
+      "pred_count": 2,
+      "time_s": 12.357
+    },
+    {
+      "image": "beans_coffee_06",
+      "study": "features",
+      "setting": "lab_xy",
+      "iou": 0.9586,
+      "precision": 0.9609,
+      "recall": 0.9976,
+      "f1": 0.9789,
+      "pred_count": 2,
+      "time_s": 7.51
+    }
+  ],
+  "filter_study": [
+    {
+      "image": "seeds_sunflower_01_noise",
+      "filter": "none",
+      "iou": 0.9791,
+      "precision": 0.9991,
+      "recall": 0.98,
+      "f1": 0.9895,
+      "pred_count": 7,
+      "time_s": 0.017
+    },
+    {
+      "image": "seeds_sunflower_01_noise",
+      "filter": "gaussian",
+      "iou": 0.9829,
+      "precision": 0.9996,
+      "recall": 0.9832,
+      "f1": 0.9914,
+      "pred_count": 7,
+      "time_s": 0.017
+    },
+    {
+      "image": "seeds_sunflower_01_noise",
+      "filter": "median",
+      "iou": 0.9795,
+      "precision": 0.9995,
+      "recall": 0.98,
+      "f1": 0.9897,
+      "pred_count": 7,
+      "time_s": 0.016
+    },
+    {
+      "image": "seeds_sunflower_01_noise",
+      "filter": "bilateral",
+      "iou": 0.9805,
+      "precision": 0.9993,
+      "recall": 0.9812,
+      "f1": 0.9902,
+      "pred_count": 7,
+      "time_s": 0.016
+    },
+    {
+      "image": "coins_greek_07_noise",
+      "filter": "none",
+      "iou": 0.2213,
+      "precision": 0.7949,
+      "recall": 0.2347,
+      "f1": 0.3624,
+      "pred_count": 8,
+      "time_s": 0.007
+    },
+    {
+      "image": "coins_greek_07_noise",
+      "filter": "gaussian",
+      "iou": 0.555,
+      "precision": 0.9224,
+      "recall": 0.5822,
+      "f1": 0.7139,
+      "pred_count": 15,
+      "time_s": 0.008
+    },
+    {
+      "image": "coins_greek_07_noise",
+      "filter": "median",
+      "iou": 0.5815,
+      "precision": 0.9283,
+      "recall": 0.6089,
+      "f1": 0.7354,
+      "pred_count": 18,
+      "time_s": 0.006
+    },
+    {
+      "image": "coins_greek_07_noise",
+      "filter": "bilateral",
+      "iou": 0.5703,
+      "precision": 0.9244,
+      "recall": 0.5982,
+      "f1": 0.7264,
+      "pred_count": 17,
+      "time_s": 0.005
+    }
+  ],
+  "conditions": [
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01",
+      "condition": "original photograph",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9888,
+      "f1": 0.9944,
+      "precision": 0.9996,
+      "recall": 0.9892,
+      "pred_count": 7,
+      "time_s": 0.017
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01",
+      "condition": "original photograph",
+      "method": "Region growing (tol 25)",
+      "iou": 0.3528,
+      "f1": 0.5216,
+      "precision": 1.0,
+      "recall": 0.3528,
+      "pred_count": 13,
+      "time_s": 0.818
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01",
+      "condition": "original photograph",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.9374,
+      "f1": 0.9677,
+      "precision": 0.9376,
+      "recall": 0.9997,
+      "pred_count": 7,
+      "time_s": 3.66
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_illum",
+      "condition": "Strong lighting gradient",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9798,
+      "f1": 0.9898,
+      "precision": 0.9991,
+      "recall": 0.9807,
+      "pred_count": 7,
+      "time_s": 0.031
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_illum",
+      "condition": "Strong lighting gradient",
+      "method": "Region growing (tol 25)",
+      "iou": 0.4588,
+      "f1": 0.6291,
+      "precision": 0.9736,
+      "recall": 0.4646,
+      "pred_count": 7,
+      "time_s": 1.232
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_illum",
+      "condition": "Strong lighting gradient",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.8576,
+      "f1": 0.9233,
+      "precision": 0.9839,
+      "recall": 0.8698,
+      "pred_count": 9,
+      "time_s": 3.165
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_dim",
+      "condition": "Under exposed, low contrast",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9863,
+      "f1": 0.9931,
+      "precision": 0.9996,
+      "recall": 0.9867,
+      "pred_count": 7,
+      "time_s": 0.032
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_dim",
+      "condition": "Under exposed, low contrast",
+      "method": "Region growing (tol 25)",
+      "iou": 0.4105,
+      "f1": 0.5821,
+      "precision": 1.0,
+      "recall": 0.4105,
+      "pred_count": 12,
+      "time_s": 0.953
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_dim",
+      "condition": "Under exposed, low contrast",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.9325,
+      "f1": 0.9651,
+      "precision": 0.9327,
+      "recall": 0.9998,
+      "pred_count": 7,
+      "time_s": 3.601
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9829,
+      "f1": 0.9914,
+      "precision": 0.9996,
+      "recall": 0.9832,
+      "pred_count": 7,
+      "time_s": 0.036
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "Region growing (tol 25)",
+      "iou": 0.4379,
+      "f1": 0.609,
+      "precision": 0.9762,
+      "recall": 0.4426,
+      "pred_count": 10,
+      "time_s": 1.2
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.9513,
+      "f1": 0.975,
+      "precision": 0.9517,
+      "recall": 0.9995,
+      "pred_count": 7,
+      "time_s": 5.81
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_blur",
+      "condition": "Defocus blur",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.9847,
+      "f1": 0.9923,
+      "precision": 0.9988,
+      "recall": 0.9859,
+      "pred_count": 7,
+      "time_s": 0.018
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_blur",
+      "condition": "Defocus blur",
+      "method": "Region growing (tol 25)",
+      "iou": 0.2134,
+      "f1": 0.3518,
+      "precision": 1.0,
+      "recall": 0.2134,
+      "pred_count": 7,
+      "time_s": 0.671
+    },
+    {
+      "base": "seeds_sunflower_01",
+      "image": "seeds_sunflower_01_blur",
+      "condition": "Defocus blur",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.9293,
+      "f1": 0.9633,
+      "precision": 0.9293,
+      "recall": 1.0,
+      "pred_count": 7,
+      "time_s": 5.849
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07",
+      "condition": "original photograph",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.5935,
+      "f1": 0.7449,
+      "precision": 0.9219,
+      "recall": 0.625,
+      "pred_count": 18,
+      "time_s": 0.016
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07",
+      "condition": "original photograph",
+      "method": "Region growing (tol 25)",
+      "iou": 0.6434,
+      "f1": 0.783,
+      "precision": 0.9518,
+      "recall": 0.6651,
+      "pred_count": 18,
+      "time_s": 0.452
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07",
+      "condition": "original photograph",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.8013,
+      "f1": 0.8897,
+      "precision": 0.9393,
+      "recall": 0.845,
+      "pred_count": 24,
+      "time_s": 1.2
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_illum",
+      "condition": "Strong lighting gradient",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.61,
+      "f1": 0.7578,
+      "precision": 0.9235,
+      "recall": 0.6425,
+      "pred_count": 18,
+      "time_s": 0.021
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_illum",
+      "condition": "Strong lighting gradient",
+      "method": "Region growing (tol 25)",
+      "iou": 0.6597,
+      "f1": 0.795,
+      "precision": 0.9506,
+      "recall": 0.6831,
+      "pred_count": 19,
+      "time_s": 0.44
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_illum",
+      "condition": "Strong lighting gradient",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.8298,
+      "f1": 0.907,
+      "precision": 0.8594,
+      "recall": 0.9601,
+      "pred_count": 22,
+      "time_s": 0.923
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.555,
+      "f1": 0.7139,
+      "precision": 0.9224,
+      "recall": 0.5822,
+      "pred_count": 15,
+      "time_s": 0.012
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "Region growing (tol 25)",
+      "iou": 0.6449,
+      "f1": 0.7841,
+      "precision": 0.9461,
+      "recall": 0.6695,
+      "pred_count": 18,
+      "time_s": 0.434
+    },
+    {
+      "base": "coins_greek_07",
+      "image": "coins_greek_07_noise",
+      "condition": "Additive Gaussian sensor noise",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.782,
+      "f1": 0.8776,
+      "precision": 0.942,
+      "recall": 0.8215,
+      "pred_count": 24,
+      "time_s": 1.593
+    }
+  ],
+  "split_study": [
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "marker_ratio": 0.25,
+      "count_without_split": 2,
+      "count_with_split": 3
+    },
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "marker_ratio": 0.35,
+      "count_without_split": 2,
+      "count_with_split": 3
+    },
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "marker_ratio": 0.45,
+      "count_without_split": 2,
+      "count_with_split": 3
+    },
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "marker_ratio": 0.55,
+      "count_without_split": 2,
+      "count_with_split": 3
+    },
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "marker_ratio": 0.65,
+      "count_without_split": 2,
+      "count_with_split": 4
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "marker_ratio": 0.25,
+      "count_without_split": 18,
+      "count_with_split": 17
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "marker_ratio": 0.35,
+      "count_without_split": 18,
+      "count_with_split": 17
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "marker_ratio": 0.45,
+      "count_without_split": 18,
+      "count_with_split": 16
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "marker_ratio": 0.55,
+      "count_without_split": 18,
+      "count_with_split": 16
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "marker_ratio": 0.65,
+      "count_without_split": 18,
+      "count_with_split": 16
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "marker_ratio": 0.25,
+      "count_without_split": 9,
+      "count_with_split": 9
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "marker_ratio": 0.35,
+      "count_without_split": 9,
+      "count_with_split": 9
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "marker_ratio": 0.45,
+      "count_without_split": 9,
+      "count_with_split": 8
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "marker_ratio": 0.55,
+      "count_without_split": 9,
+      "count_with_split": 8
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "marker_ratio": 0.65,
+      "count_without_split": 9,
+      "count_with_split": 8
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "marker_ratio": 0.25,
+      "count_without_split": 7,
+      "count_with_split": 11
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "marker_ratio": 0.35,
+      "count_without_split": 7,
+      "count_with_split": 10
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "marker_ratio": 0.45,
+      "count_without_split": 7,
+      "count_with_split": 13
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "marker_ratio": 0.55,
+      "count_without_split": 7,
+      "count_with_split": 12
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "marker_ratio": 0.65,
+      "count_without_split": 7,
+      "count_with_split": 16
+    }
+  ],
+  "measurement_counts": [
+    {
+      "image": "beans_cowpea_scale_05",
+      "expected": 8,
+      "count_before_split": 9,
+      "count_after_split": 9,
+      "summary_after": {
+        "count": 9,
+        "area_px_mean": 7485.6,
+        "area_px_std": 2752.2,
+        "area_px_min": 204.0,
+        "area_px_max": 9604.0,
+        "major_axis_px_mean": 141.97,
+        "minor_axis_px_mean": 62.64,
+        "circularity_mean": 0.692,
+        "area_mm2_mean": 44.29,
+        "major_axis_mm_mean": 10.92,
+        "minor_axis_mm_mean": 4.82
+      },
+      "size_classes": {
+        "small": 3,
+        "medium": 3,
+        "large": 3
+      }
+    },
+    {
+      "image": "beans_coffee_06",
+      "expected": 5,
+      "count_before_split": 2,
+      "count_after_split": 3,
+      "summary_after": {
+        "count": 3,
+        "area_px_mean": 52796.3,
+        "area_px_std": 25729.8,
+        "area_px_min": 30868.0,
+        "area_px_max": 88908.0,
+        "major_axis_px_mean": 330.39,
+        "minor_axis_px_mean": 213.97,
+        "circularity_mean": 0.691
+      },
+      "size_classes": {
+        "small": 1,
+        "medium": 1,
+        "large": 1
+      }
+    },
+    {
+      "image": "coins_greek_07",
+      "expected": 24,
+      "count_before_split": 18,
+      "count_after_split": 17,
+      "summary_after": {
+        "count": 17,
+        "area_px_mean": 1226.7,
+        "area_px_std": 550.2,
+        "area_px_min": 211.0,
+        "area_px_max": 2539.0,
+        "major_axis_px_mean": 41.44,
+        "minor_axis_px_mean": 37.15,
+        "circularity_mean": 0.789
+      },
+      "size_classes": {
+        "small": 6,
+        "medium": 5,
+        "large": 6
+      }
+    },
+    {
+      "image": "seeds_pale_04",
+      "expected": 3,
+      "count_before_split": 6,
+      "count_after_split": 12,
+      "summary_after": {
+        "count": 12,
+        "area_px_mean": 3265.9,
+        "area_px_std": 3556.9,
+        "area_px_min": 225.0,
+        "area_px_max": 11561.0,
+        "major_axis_px_mean": 130.65,
+        "minor_axis_px_mean": 39.89,
+        "circularity_mean": 0.321
+      },
+      "size_classes": {
+        "small": 4,
+        "medium": 4,
+        "large": 4
+      }
+    },
+    {
+      "image": "seeds_sunflower_01",
+      "expected": "",
+      "count_before_split": 7,
+      "count_after_split": 12,
+      "summary_after": {
+        "count": 12,
+        "area_px_mean": 12247.4,
+        "area_px_std": 18061.3,
+        "area_px_min": 535.0,
+        "area_px_max": 69329.0,
+        "major_axis_px_mean": 160.52,
+        "minor_axis_px_mean": 82.21,
+        "circularity_mean": 0.541
+      },
+      "size_classes": {
+        "small": 4,
+        "medium": 4,
+        "large": 4
+      }
+    }
+  ],
+  "measurement_accuracy": [
+    {
+      "image": "beans_cowpea_scale_05",
+      "method": "Thresholding (Otsu)",
+      "objects_in_ground_truth": 8,
+      "matched_objects": 8,
+      "mean_abs_area_error_pct": 11.6,
+      "max_abs_area_error_pct": 18.95,
+      "mean_abs_length_error_pct": 1.37,
+      "max_abs_length_error_pct": 2.55
+    },
+    {
+      "image": "beans_cowpea_scale_05",
+      "method": "K means (K = 3, Lab)",
+      "objects_in_ground_truth": 8,
+      "matched_objects": 8,
+      "mean_abs_area_error_pct": 11.67,
+      "max_abs_area_error_pct": 19.0,
+      "mean_abs_length_error_pct": 1.41,
+      "max_abs_length_error_pct": 2.66
+    },
+    {
+      "image": "beans_coffee_06",
+      "method": "Thresholding (Otsu)",
+      "objects_in_ground_truth": 5,
+      "matched_objects": 2,
+      "mean_abs_area_error_pct": 1.8,
+      "max_abs_area_error_pct": 2.48,
+      "mean_abs_length_error_pct": 1.85,
+      "max_abs_length_error_pct": 2.62
+    },
+    {
+      "image": "beans_coffee_06",
+      "method": "K means (K = 3, Lab)",
+      "objects_in_ground_truth": 5,
+      "matched_objects": 1,
+      "mean_abs_area_error_pct": 10.44,
+      "max_abs_area_error_pct": 10.44,
+      "mean_abs_length_error_pct": 6.5,
+      "max_abs_length_error_pct": 6.5
+    },
+    {
+      "image": "coins_greek_07",
+      "method": "Thresholding (Otsu)",
+      "objects_in_ground_truth": 24,
+      "matched_objects": 14,
+      "mean_abs_area_error_pct": 13.44,
+      "max_abs_area_error_pct": 29.8,
+      "mean_abs_length_error_pct": 12.12,
+      "max_abs_length_error_pct": 28.03
+    },
+    {
+      "image": "coins_greek_07",
+      "method": "K means (K = 3, Lab)",
+      "objects_in_ground_truth": 24,
+      "matched_objects": 22,
+      "mean_abs_area_error_pct": 17.51,
+      "max_abs_area_error_pct": 31.56,
+      "mean_abs_length_error_pct": 14.97,
+      "max_abs_length_error_pct": 31.39
+    },
+    {
+      "image": "seeds_pale_04",
+      "method": "Thresholding (Otsu)",
+      "objects_in_ground_truth": 3,
+      "matched_objects": 0,
+      "mean_abs_area_error_pct": "",
+      "max_abs_area_error_pct": "",
+      "mean_abs_length_error_pct": "",
+      "max_abs_length_error_pct": ""
+    },
+    {
+      "image": "seeds_pale_04",
+      "method": "K means (K = 3, Lab)",
+      "objects_in_ground_truth": 3,
+      "matched_objects": 3,
+      "mean_abs_area_error_pct": 15.05,
+      "max_abs_area_error_pct": 21.39,
+      "mean_abs_length_error_pct": 2.9,
+      "max_abs_length_error_pct": 4.27
+    }
+  ],
+  "failures": [
+    {
+      "case": "dense pile",
+      "regions": 2,
+      "regions_after_split": 1
+    },
+    {
+      "case": "low contrast",
+      "method": "Thresholding (Otsu)",
+      "iou": 0.1743
+    },
+    {
+      "case": "low contrast",
+      "method": "Region growing (tol 25)",
+      "iou": 0.311
+    },
+    {
+      "case": "low contrast",
+      "method": "K means (K = 3, Lab)",
+      "iou": 0.6076
+    }
+  ],
+  "runtime_s": 436.9
+}

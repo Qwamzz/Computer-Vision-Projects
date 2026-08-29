@@ -1,0 +1,4 @@
+method,mean_iou,mean_precision,mean_recall,mean_f1,mean_time_s
+Thresholding (Otsu),0.7095,0.8595,0.7608,0.7846,0.032
+Region growing (tol 25),0.3652,0.6743,0.685,0.5118,3.142
+"K means (K = 3, Lab)",0.815,0.87,0.9225,0.8934,7.122

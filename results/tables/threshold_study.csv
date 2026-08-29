@@ -1,0 +1,29 @@
+image,setting,iou,precision,recall,f1,time_s
+seeds_sunflower_01,"Otsu, illumination corrected",0.9888,0.9996,0.9892,0.9944,0.038
+seeds_sunflower_01,"Otsu, no illumination correction",0.9824,0.9902,0.9921,0.9911,0.033
+seeds_sunflower_01,Fixed threshold 100,0.7752,1.0,0.7752,0.8733,0.017
+seeds_sunflower_01,Fixed threshold 140,0.9494,0.9965,0.9526,0.974,0.027
+seeds_sunflower_01,Fixed threshold 180,0.9572,0.9573,0.9998,0.9781,0.037
+seeds_sunflower_01,"Adaptive Gaussian, block 51",0.7316,0.9796,0.7429,0.845,0.063
+seeds_sunflower_01,"Adaptive Gaussian, block 101",0.9,0.98,0.9168,0.9473,0.08
+seeds_sunflower_01_illum,"Otsu, illumination corrected",0.9798,0.9991,0.9807,0.9898,0.04
+seeds_sunflower_01_illum,"Otsu, no illumination correction",0.6508,0.657,0.9856,0.7885,0.032
+seeds_sunflower_01_illum,Fixed threshold 100,0.8491,0.9147,0.9221,0.9184,0.028
+seeds_sunflower_01_illum,Fixed threshold 140,0.641,0.6459,0.9882,0.7812,0.027
+seeds_sunflower_01_illum,Fixed threshold 180,0.5033,0.5033,0.9999,0.6696,0.015
+seeds_sunflower_01_illum,"Adaptive Gaussian, block 51",0.6199,0.9857,0.6256,0.7654,0.032
+seeds_sunflower_01_illum,"Adaptive Gaussian, block 101",0.8782,0.9864,0.889,0.9352,0.038
+coins_greek_07,"Otsu, illumination corrected",0.5935,0.9219,0.625,0.7449,0.015
+coins_greek_07,"Otsu, no illumination correction",0.7092,0.729,0.9631,0.8299,0.017
+coins_greek_07,Fixed threshold 100,0.6859,0.7025,0.9666,0.8137,0.017
+coins_greek_07,Fixed threshold 140,0.7872,0.9555,0.8171,0.8809,0.015
+coins_greek_07,Fixed threshold 180,0.144,0.9767,0.1445,0.2517,0.007
+coins_greek_07,"Adaptive Gaussian, block 51",0.4589,0.4664,0.9662,0.6291,0.022
+coins_greek_07,"Adaptive Gaussian, block 101",0.6548,0.6704,0.9657,0.7914,0.013
+coins_greek_07_illum,"Otsu, illumination corrected",0.61,0.9235,0.6425,0.7578,0.006
+coins_greek_07_illum,"Otsu, no illumination correction",0.8523,0.9187,0.9219,0.9203,0.008
+coins_greek_07_illum,Fixed threshold 100,0.7419,0.9457,0.7749,0.8518,0.012
+coins_greek_07_illum,Fixed threshold 140,0.2921,0.9841,0.2934,0.4521,0.006
+coins_greek_07_illum,Fixed threshold 180,0.018,1.0,0.018,0.0353,0.004
+coins_greek_07_illum,"Adaptive Gaussian, block 51",0.4142,0.4182,0.9773,0.5857,0.01
+coins_greek_07_illum,"Adaptive Gaussian, block 101",0.5885,0.6007,0.9669,0.741,0.034

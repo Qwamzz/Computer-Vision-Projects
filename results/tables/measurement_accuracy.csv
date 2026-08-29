@@ -1,0 +1,9 @@
+image,method,objects_in_ground_truth,matched_objects,mean_abs_area_error_pct,max_abs_area_error_pct,mean_abs_length_error_pct,max_abs_length_error_pct
+beans_cowpea_scale_05,Thresholding (Otsu),8,8,11.6,18.95,1.37,2.55
+beans_cowpea_scale_05,"K means (K = 3, Lab)",8,8,11.67,19.0,1.41,2.66
+beans_coffee_06,Thresholding (Otsu),5,2,1.8,2.48,1.85,2.62
+beans_coffee_06,"K means (K = 3, Lab)",5,1,10.44,10.44,6.5,6.5
+coins_greek_07,Thresholding (Otsu),24,14,13.44,29.8,12.12,28.03
+coins_greek_07,"K means (K = 3, Lab)",24,22,17.51,31.56,14.97,31.39
+seeds_pale_04,Thresholding (Otsu),3,0,,,,
+seeds_pale_04,"K means (K = 3, Lab)",3,3,15.05,21.39,2.9,4.27

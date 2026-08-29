@@ -1,0 +1,4 @@
+object_id,area_px,perimeter_px,centroid_x,centroid_y,bbox_x,bbox_y,bbox_w,bbox_h,equivalent_diameter_px,major_axis_px,minor_axis_px,orientation_deg,aspect_ratio,circularity,solidity,extent,touches_border
+1,30868,679.23,402.67,134.51,284,55,240,164,198.25,245.26,159.56,99.8,1.537,0.841,1.001,0.784,0
+2,38613,791.21,599.51,280.07,456,195,285,176,221.73,287.37,171.21,80.5,1.678,0.775,0.991,0.77,0
+3,88908,1561.66,290.25,407.98,101,236,440,343,336.45,458.54,311.14,98.5,1.474,0.458,0.839,0.589,0
