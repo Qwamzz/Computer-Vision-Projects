@@ -4,10 +4,7 @@
 
 | | |
 |---|---|
-| Name | Nii Yartey Gidiglo |
-| Student ID | 22424650 |
-| Course | CSCD608 Advanced Computer Vision (3 credits) |
-| Question | Question 4 |
+
 | Application domain | Counting and measuring seeds, beans and coins |
 
 The report is **`report/CSCD608_Q4_Report.pdf`**.
