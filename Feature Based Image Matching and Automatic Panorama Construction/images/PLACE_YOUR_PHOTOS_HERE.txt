@@ -1,0 +1,19 @@
+Place three or more overlapping photographs in this folder to run the system on
+your own images instead of the scene photograph.
+
+Naming: alphabetical order must match left-to-right order, e.g.
+    01.jpg, 02.jpg, 03.jpg, 04.jpg
+
+For good results:
+  * overlap neighbouring shots by roughly 30-50%
+  * rotate the camera about its own axis rather than walking sideways
+    (translation plus scene depth breaks the homography assumption -- see
+    Section 11.1 of the report)
+  * lock exposure and focus if your camera allows it
+
+The system detects these files automatically on the next run of
+    python src/main.py
+
+Note: in real mode there is no ground truth, so the alignment-error and
+matching-precision columns become "n/a". The overlap-consistency metrics
+(RMSE, NCC) still work.
