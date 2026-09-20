@@ -1,0 +1,134 @@
+[
+  {
+    "file": "daylight_01.jpg",
+    "condition": "daylight",
+    "note": "Straight sealed road, continuous white edge lines, low sun.",
+    "commons_title": "Babouin (120916011).jpeg",
+    "licence": "CC BY-SA 3.0",
+    "author": "Alexandre Ultr\u00e9",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Babouin_%28120916011%29.jpeg/1280px-Babouin_%28120916011%29.jpeg",
+    "original_pixels": "2048x1536",
+    "bytes": 538084
+  },
+  {
+    "file": "daylight_02.jpg",
+    "condition": "daylight",
+    "note": "Two lane road with a painted centre line and clear edges.",
+    "commons_title": "Long Smooth Road.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Ibrahim Achiri",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Long_Smooth_Road.jpg/1280px-Long_Smooth_Road.jpg",
+    "original_pixels": "2560x1706",
+    "bytes": 340208
+  },
+  {
+    "file": "shadow_01.jpg",
+    "condition": "shadows",
+    "note": "Avenue of trees casting hard dappled shadow bands across the road.",
+    "commons_title": "African Road.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Totibill2017",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/African_Road.jpg/1280px-African_Road.jpg",
+    "original_pixels": "1920x1080",
+    "bytes": 287304
+  },
+  {
+    "file": "shadow_02.jpg",
+    "condition": "shadows",
+    "note": "Unsealed road under trees, shadow contrast rivals the road edge.",
+    "commons_title": "Road in Shai Hills Forest Reserve.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "daSupremo",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Road_in_Shai_Hills_Forest_Reserve.jpg/1280px-Road_in_Shai_Hills_Forest_Reserve.jpg",
+    "original_pixels": "1600x1200",
+    "bytes": 414948
+  },
+  {
+    "file": "lowlight_01.jpg",
+    "condition": "poor_illumination",
+    "note": "Haze and flat overcast light, very low edge contrast.",
+    "commons_title": "On the road from Obuasi to Cape coast - panoramio.jpg",
+    "licence": "CC BY-SA 3.0",
+    "author": "Ghassan Mroue",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/On_the_road_from_Obuasi_to_Cape_coast_-_panoramio.jpg/1280px-On_the_road_from_Obuasi_to_Cape_coast_-_panoramio.jpg",
+    "original_pixels": "2272x1704",
+    "bytes": 163830
+  },
+  {
+    "file": "lowlight_02.jpg",
+    "condition": "poor_illumination",
+    "note": "Overcast, wet looking surface, weak markings.",
+    "commons_title": "Road from Kumasi to Obuasi - panoramio.jpg",
+    "licence": "CC BY-SA 3.0",
+    "author": "Ghassan Mroue",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Road_from_Kumasi_to_Obuasi_-_panoramio.jpg/1280px-Road_from_Kumasi_to_Obuasi_-_panoramio.jpg",
+    "original_pixels": "2304x1536",
+    "bytes": 145960
+  },
+  {
+    "file": "curve_01.jpg",
+    "condition": "curve",
+    "note": "Strong single bend with clear markings, defeats the straight line model.",
+    "commons_title": "Roads in Ghana.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Brans Wyte GH",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Roads_in_Ghana.jpg/1280px-Roads_in_Ghana.jpg",
+    "original_pixels": "6016x4000",
+    "bytes": 323388
+  },
+  {
+    "file": "curve_02.jpg",
+    "condition": "curve",
+    "note": "Sweeping curve seen from the inside of the bend.",
+    "commons_title": "Nice Road Curve.jpg",
+    "licence": "CC0",
+    "author": "Ibrahim Achiri",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nice_Road_Curve.jpg/1280px-Nice_Road_Curve.jpg",
+    "original_pixels": "4032x3024",
+    "bytes": 516724
+  },
+  {
+    "file": "worn_01.jpg",
+    "condition": "worn_markings",
+    "note": "Unsealed laterite road, no markings at all, boundary is a colour change.",
+    "commons_title": "Mim Cashew plantation.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Boadu Emma",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Mim_Cashew_plantation.jpg/1280px-Mim_Cashew_plantation.jpg",
+    "original_pixels": "6000x4000",
+    "bytes": 355967
+  },
+  {
+    "file": "worn_02.jpg",
+    "condition": "worn_markings",
+    "note": "Straight laterite road, boundary is a colour change against the verge.",
+    "commons_title": "Mole 2 (120915995).jpeg",
+    "licence": "CC BY-SA 3.0",
+    "author": "Alexandre Ultr\u00e9",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mole_2_%28120915995%29.jpeg/1280px-Mole_2_%28120915995%29.jpeg",
+    "original_pixels": "2048x1536",
+    "bytes": 391890
+  },
+  {
+    "file": "occlusion_01.jpg",
+    "condition": "occlusion",
+    "note": "People and vehicles standing on the carriageway, breaking the edges.",
+    "commons_title": "Female Street Sellers Accra 12.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "Selasie Afi",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Female_Street_Sellers_Accra_12.jpg/1280px-Female_Street_Sellers_Accra_12.jpg",
+    "original_pixels": "4207x2640",
+    "bytes": 221976
+  },
+  {
+    "file": "occlusion_02.jpg",
+    "condition": "occlusion",
+    "note": "A tractor and a pickup occupying the carriageway ahead.",
+    "commons_title": "Farm Tractor.jpg",
+    "licence": "CC BY-SA 4.0",
+    "author": "JoyLenu4u",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Farm_Tractor.jpg/1280px-Farm_Tractor.jpg",
+    "original_pixels": "4300x2788",
+    "bytes": 255813
+  }
+]

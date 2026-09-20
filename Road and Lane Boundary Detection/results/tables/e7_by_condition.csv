@@ -1,0 +1,7 @@
+condition,images,mean_iou,mean_precision,mean_recall,mean_f1
+curved road,2,0.7226,0.7522,0.9424,0.8353
+good daylight,2,0.7780,0.8561,0.8983,0.8751
+occluding traffic,2,0.5475,0.9258,0.5669,0.6970
+poor illumination,2,0.4674,0.5422,0.8112,0.6287
+shadows,2,0.6730,0.7699,0.8469,0.8029
+worn or absent markings,2,0.7332,0.8547,0.8441,0.8441

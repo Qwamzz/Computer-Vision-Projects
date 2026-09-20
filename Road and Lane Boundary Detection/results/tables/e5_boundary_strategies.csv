@@ -1,0 +1,4 @@
+strategy,boundaries_found,boundaries_possible,boundaries_scored,mean_boundary_error_px
+hough on ROI edges,9,12,7,355.8135
+hough on paint edges,7,12,5,347.8299
+from segmented region,9,12,8,75.6242

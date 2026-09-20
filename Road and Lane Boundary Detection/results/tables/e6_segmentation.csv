@@ -1,0 +1,15 @@
+configuration,method,mean_iou,mean_precision,mean_recall,mean_f1,seconds_per_image
+threshold k=2.0,threshold,0.4857,0.8369,0.5335,0.6230,0.1368
+threshold k=2.5,threshold,0.5468,0.7607,0.6600,0.6814,0.1343
+threshold k=3.0,threshold,0.5718,0.7367,0.7443,0.7001,0.1404
+mahalanobis chi=2.5,mahalanobis,0.7027,0.8640,0.8005,0.8226,0.4459
+mahalanobis chi=3.0,mahalanobis,0.7098,0.8063,0.8650,0.8279,0.4689
+mahalanobis chi=3.5,mahalanobis,0.7052,0.7786,0.8940,0.8247,0.4168
+kmeans K=2,kmeans,0.3713,0.4517,0.8156,0.5300,0.2503
+kmeans K=3,kmeans,0.4927,0.7881,0.6720,0.6057,0.2078
+kmeans K=4,kmeans,0.4880,0.6378,0.6519,0.6005,0.2878
+kmeans K=5,kmeans,0.4434,0.6931,0.5332,0.5571,0.3293
+region growing tol=8,region_growing,0.1349,0.7975,0.1375,0.2194,0.0482
+region growing tol=14,region_growing,0.3527,0.9451,0.3707,0.4770,0.0495
+region growing tol=20,region_growing,0.4502,0.9129,0.5010,0.5815,0.0351
+region growing tol=28,region_growing,0.5932,0.8237,0.7316,0.7250,0.0511

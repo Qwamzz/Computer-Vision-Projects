@@ -1,0 +1,122 @@
+{
+  "daylight_01.jpg": {
+    "road_fraction": 0.5204,
+    "pixels": 639477,
+    "size": [
+      1280,
+      960
+    ],
+    "polygons": 1,
+    "cuts": 1
+  },
+  "daylight_02.jpg": {
+    "road_fraction": 0.2635,
+    "pixels": 287691,
+    "size": [
+      1280,
+      853
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "shadow_01.jpg": {
+    "road_fraction": 0.217,
+    "pixels": 200026,
+    "size": [
+      1280,
+      720
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "shadow_02.jpg": {
+    "road_fraction": 0.228,
+    "pixels": 280183,
+    "size": [
+      1280,
+      960
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "lowlight_01.jpg": {
+    "road_fraction": 0.1282,
+    "pixels": 157546,
+    "size": [
+      1280,
+      960
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "lowlight_02.jpg": {
+    "road_fraction": 0.0868,
+    "pixels": 94787,
+    "size": [
+      1280,
+      853
+    ],
+    "polygons": 1,
+    "cuts": 1
+  },
+  "curve_01.jpg": {
+    "road_fraction": 0.2803,
+    "pixels": 305329,
+    "size": [
+      1280,
+      851
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "curve_02.jpg": {
+    "road_fraction": 0.1758,
+    "pixels": 216084,
+    "size": [
+      1280,
+      960
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "worn_01.jpg": {
+    "road_fraction": 0.1862,
+    "pixels": 203298,
+    "size": [
+      1280,
+      853
+    ],
+    "polygons": 1,
+    "cuts": 1
+  },
+  "worn_02.jpg": {
+    "road_fraction": 0.1164,
+    "pixels": 143080,
+    "size": [
+      1280,
+      960
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "occlusion_01.jpg": {
+    "road_fraction": 0.2365,
+    "pixels": 243048,
+    "size": [
+      1280,
+      803
+    ],
+    "polygons": 1,
+    "cuts": 0
+  },
+  "occlusion_02.jpg": {
+    "road_fraction": 0.262,
+    "pixels": 278341,
+    "size": [
+      1280,
+      830
+    ],
+    "polygons": 1,
+    "cuts": 1
+  }
+}

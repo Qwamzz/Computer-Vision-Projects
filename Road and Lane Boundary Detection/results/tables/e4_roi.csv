@@ -1,0 +1,4 @@
+configuration,mean_hough_segments,boundaries_fitted,boundaries_possible,mean_boundary_error_px,boundaries_scored
+whole frame,732.5000,10,12,300.7675,9
+fixed trapezoid,360.5000,8,12,223.7876,7
+adaptive from segmentation,291.1667,9,12,128.1927,8

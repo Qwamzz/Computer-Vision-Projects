@@ -1,0 +1,13 @@
+image,condition,BGR,HLS,Lab,HSV
+curve_01,curve,0.0321,0.4871,0.6501,0.3216
+curve_02,curve,0.2373,0.5639,0.6460,0.6331
+daylight_01,daylight,0.1038,0.1191,0.2803,0.0829
+daylight_02,daylight,0.2393,0.4016,0.3194,0.3046
+lowlight_01,poor_illumination,0.3954,0.4213,0.1958,0.4303
+lowlight_02,poor_illumination,0.0570,0.5076,0.1558,0.3171
+occlusion_01,occlusion,0.2195,0.3388,0.1400,0.1804
+occlusion_02,occlusion,0.1024,0.4160,0.1209,0.4274
+shadow_01,shadows,0.3869,0.2020,0.5274,0.5928
+shadow_02,shadows,1.3048,0.8972,1.4945,0.9829
+worn_01,worn_markings,0.2084,0.6159,0.4018,0.2669
+worn_02,worn_markings,0.2439,0.8079,1.8418,0.9552

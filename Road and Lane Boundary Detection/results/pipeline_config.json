@@ -1,0 +1,19 @@
+{
+  "filter": "none",
+  "colour_space": "HLS",
+  "edge": {
+    "method": "sobel",
+    "sobel_thresh": 100
+  },
+  "hough": {
+    "threshold": 20,
+    "min_line_len": 25
+  },
+  "boundary_strategy": "from segmented region",
+  "segmentation": {
+    "method": "mahalanobis",
+    "params": {
+      "chi": 3.0
+    }
+  }
+}
