@@ -1,0 +1,3 @@
+configuration,seconds_per_image,fraction_of_image_searched,best_threshold,precision,recall,f1
+multi scale template matching over the whole image,1.14,1.0,0.6,1.0,0.5238,0.6875
+colour proposals then template matching,0.27,0.2982,0.55,1.0,0.619,0.7647

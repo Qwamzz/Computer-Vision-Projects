@@ -1,0 +1,4 @@
+configuration,templates_in_bank,best_threshold,precision,recall,f1,seconds_per_image
+1 scale (reference size only),1,0.5,1.0,0.4286,0.6,0.11
+5 scales (0.6 to 1.8),5,0.525,0.6875,0.5238,0.5946,0.491
+11 scales (0.50 to 2.02),11,0.6,1.0,0.5238,0.6875,1.14

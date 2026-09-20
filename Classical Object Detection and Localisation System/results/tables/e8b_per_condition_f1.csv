@@ -1,0 +1,8 @@
+method,baseline,clutter,combined,illumination,noise,occlusion,rotation,scale,viewpoint
+single scale template matching,0.8,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+multi scale template matching,1.0,1.0,0.667,0.667,0.0,0.0,0.0,0.667,0.0
+multi scale and rotation bank,1.0,1.0,0.667,0.4,0.0,0.0,0.8,0.667,0.0
+explicit sliding window (step 4),0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SIFT matching with RANSAC,0.8,1.0,0.667,0.8,0.667,0.5,1.0,0.667,0.0
+colour proposals and template matching,1.0,1.0,0.667,0.667,0.0,0.0,0.0,1.0,0.0
+combined colour and template and features,1.0,1.0,0.667,1.0,1.0,0.5,1.0,1.0,0.0

@@ -1,0 +1,494 @@
+{
+  "dev01_baseline_a.jpg": {
+    "condition": "baseline",
+    "background": "bg_ug_campus.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          240,
+          231,
+          96,
+          115
+        ],
+        "scale": 1.0,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev02_baseline_b.jpg": {
+    "condition": "baseline",
+    "background": "bg_brick_wall.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          540,
+          190,
+          110,
+          132
+        ],
+        "scale": 1.15,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev03_baseline_two.jpg": {
+    "condition": "baseline",
+    "background": "bg_library_interior.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          192,
+          167,
+          96,
+          115
+        ],
+        "scale": 1.0,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      },
+      {
+        "bbox": [
+          643,
+          339,
+          96,
+          115
+        ],
+        "scale": 1.0,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev04_scale_small.jpg": {
+    "condition": "scale",
+    "background": "bg_balme_library.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          355,
+          317,
+          58,
+          70
+        ],
+        "scale": 0.6,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev05_scale_large.jpg": {
+    "condition": "scale",
+    "background": "bg_mensah_sarbah.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          444,
+          220,
+          168,
+          201
+        ],
+        "scale": 1.75,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev06_scale_mixed.jpg": {
+    "condition": "scale",
+    "background": "bg_lecture_interior.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          178,
+          152,
+          67,
+          80
+        ],
+        "scale": 0.7,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      },
+      {
+        "bbox": [
+          603,
+          301,
+          139,
+          167
+        ],
+        "scale": 1.45,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev07_rot_small.jpg": {
+    "condition": "rotation",
+    "background": "bg_accra_street.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          385,
+          226,
+          101,
+          122
+        ],
+        "scale": 1.0,
+        "rotation": 8,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev08_rot_medium.jpg": {
+    "condition": "rotation",
+    "background": "bg_accra_scene.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          464,
+          245,
+          133,
+          145
+        ],
+        "scale": 1.1,
+        "rotation": 22,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev09_rot_large.jpg": {
+    "condition": "rotation",
+    "background": "bg_office_desk.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          315,
+          252,
+          137,
+          137
+        ],
+        "scale": 1.0,
+        "rotation": 45,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev10_illum_dark.jpg": {
+    "condition": "illumination",
+    "background": "bg_ug_campus.jpg",
+    "photometric": {
+      "gamma": 0.45
+    },
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          430,
+          260,
+          101,
+          121
+        ],
+        "scale": 1.05,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev11_illum_bright.jpg": {
+    "condition": "illumination",
+    "background": "bg_brick_wall.jpg",
+    "photometric": {
+      "gamma": 1.9
+    },
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          382,
+          228,
+          101,
+          121
+        ],
+        "scale": 1.05,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev12_illum_gradient.jpg": {
+    "condition": "illumination",
+    "background": "bg_library_interior.jpg",
+    "photometric": {
+      "gradient": [
+        "left",
+        0.55
+      ]
+    },
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          542,
+          257,
+          106,
+          127
+        ],
+        "scale": 1.1,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev13_view_tilt.jpg": {
+    "condition": "viewpoint",
+    "background": "bg_balme_library.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          384,
+          251,
+          94,
+          135
+        ],
+        "scale": 1.2,
+        "rotation": 0,
+        "tilt": [
+          0.16,
+          0.05
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev14_view_tilt_rot.jpg": {
+    "condition": "viewpoint",
+    "background": "bg_mensah_sarbah.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          476,
+          251,
+          103,
+          134
+        ],
+        "scale": 1.2,
+        "rotation": 12,
+        "tilt": [
+          0.22,
+          0.08
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev15_occ_light.jpg": {
+    "condition": "occlusion",
+    "background": "bg_accra_street.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          331,
+          257,
+          106,
+          127
+        ],
+        "scale": 1.1,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.18,
+        "occluded_side": "top"
+      }
+    ]
+  },
+  "dev16_occ_heavy.jpg": {
+    "condition": "occlusion",
+    "background": "bg_accra_scene.jpg",
+    "photometric": {},
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          475,
+          257,
+          106,
+          127
+        ],
+        "scale": 1.1,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.42,
+        "occluded_side": "top"
+      }
+    ]
+  },
+  "dev17_clutter.jpg": {
+    "condition": "clutter",
+    "background": "bg_office_desk.jpg",
+    "photometric": {},
+    "distractors": 2,
+    "objects": [
+      {
+        "bbox": [
+          240,
+          295,
+          96,
+          115
+        ],
+        "scale": 1.0,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev18_noise.jpg": {
+    "condition": "noise",
+    "background": "bg_lecture_interior.jpg",
+    "photometric": {
+      "noise": 14
+    },
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          427,
+          225,
+          106,
+          127
+        ],
+        "scale": 1.1,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev19_blur.jpg": {
+    "condition": "noise",
+    "background": "bg_ug_campus.jpg",
+    "photometric": {
+      "blur": [
+        9,
+        20
+      ]
+    },
+    "distractors": 0,
+    "objects": [
+      {
+        "bbox": [
+          379,
+          289,
+          106,
+          127
+        ],
+        "scale": 1.1,
+        "rotation": 0,
+        "tilt": [
+          0,
+          0
+        ],
+        "occlusion": 0.0
+      }
+    ]
+  },
+  "dev20_negative.jpg": {
+    "condition": "negative",
+    "background": "bg_brick_wall.jpg",
+    "photometric": {},
+    "distractors": 2,
+    "objects": []
+  }
+}
