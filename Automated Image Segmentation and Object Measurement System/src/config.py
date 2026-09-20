@@ -1,11 +1,9 @@
 """
 Project wide configuration and the dataset manifest.
 
-CSCD608 Advanced Computer Vision, Final Examination, Question 4
 Automated Image Segmentation and Object Measurement System
 
 Author : Nii Yartey Gidiglo
-ID     : 22424650
 """
 
 from pathlib import Path

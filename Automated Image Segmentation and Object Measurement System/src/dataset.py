@@ -2,7 +2,7 @@
 Dataset handling.
 
 The eight base images are real photographs that are shipped with this
-submission in data/images. This module can re download them from their source
+project in data/images. This module can re download them from their source
 if they are missing, and it generates the controlled degradations that are used
 for the robustness study.
 """
@@ -51,7 +51,7 @@ def ensure_base_images():
         target = IMAGE_DIR / rec["file"]
         print("downloading", rec["file"])
         subprocess.run(["curl", "-sL", "-o", str(target),
-                        "-A", "CSCD608-coursework/1.0", url], check=True)
+                        "-A", "segmentation-measurement/1.0", url], check=True)
     return [IMAGE_DIR / r["file"] for r in BASE_IMAGES]
 
 

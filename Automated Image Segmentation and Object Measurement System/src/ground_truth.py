@@ -1,10 +1,10 @@
 """
 Ground truth mask creation.
 
-Question 4 asks for manual ground truth masks on a representative subset of the
-test images. Painting several hundred object outlines pixel by pixel is not a
-sensible use of examination time, so the masks were produced with the assisted
-procedure that is standard practice in annotation tools:
+The evaluation needs manual ground truth masks on a representative subset of the
+test images. Painting several hundred object outlines pixel by pixel by hand is
+prohibitively slow, so the masks were produced with the assisted procedure that
+is standard practice in annotation tools:
 
     1. A carefully tuned, per image classical recipe produces a first draft
        mask. The recipe for the draft is allowed to use information that the

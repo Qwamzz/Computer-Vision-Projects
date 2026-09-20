@@ -1,6 +1,6 @@
 """
 Object analysis stage: boundary identification, object extraction and the
-measurements requested by Question 4.
+measurements reported by the system.
 
 For every segmented region the system reports the object count, area,
 perimeter, centroid, bounding box and object size. When a scale is available

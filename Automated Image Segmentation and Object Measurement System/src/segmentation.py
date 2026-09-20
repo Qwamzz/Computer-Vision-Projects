@@ -1,5 +1,5 @@
 """
-The three segmentation techniques required by Question 4.
+The three segmentation techniques compared in this project.
 
     1. Threshold based segmentation, including an Otsu implementation written
        from first principles so that the criterion itself is visible.

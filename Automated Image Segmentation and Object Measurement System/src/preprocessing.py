@@ -47,7 +47,7 @@ def to_gray(img_bgr):
 def colour_channels(img_bgr):
     """Return a dictionary of candidate single channel representations.
 
-    Question 4 asks for an appropriate colour representation to be selected.
+    An appropriate colour representation has to be selected.
     The channels below are the ones examined in the report: grey level, the
     saturation and value channels of HSV, and the a and b channels of CIE Lab.
     """
