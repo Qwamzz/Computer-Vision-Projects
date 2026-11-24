@@ -4,7 +4,7 @@ End to end computer vision systems built with **classical techniques only**.
 None of them uses a learned or pre-trained model. Each stage is implemented from
 its definition, compared against the alternatives on annotated data, and written
 up in a full report.
-
+ 
 | Project | Task | Headline result |
 |---|---|---|
 | [Automated Image Segmentation and Object Measurement](Automated%20Image%20Segmentation%20and%20Object%20Measurement%20System) | Segment, count and measure seeds, beans and coins | K means (Lab, K = 3): **IoU 0.815, F1 0.893** |
