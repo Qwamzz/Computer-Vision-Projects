@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-Four end to end computer vision systems built with **classical techniques only**.
+End to end computer vision systems built with **classical techniques only**.
 None of them uses a learned or pre-trained model. Each stage is implemented from
 its definition, compared against the alternatives on annotated data, and written
 up in a full report.
